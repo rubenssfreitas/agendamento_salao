@@ -2,5 +2,5 @@ const {Person} = require('./person');
 
 require('./modules/path');
 
-const person = new Person('Rubens Freitas');
+const person = new Person('Rubens');
 
