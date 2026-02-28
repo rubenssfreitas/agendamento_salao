@@ -7,5 +7,5 @@ const {Person} = require('./person');
 require('./modules/express');
 
 
-const person = new Person('Rubens');
+const person = new Person('Rubens F');
 
